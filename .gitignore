@@ -107,3 +107,11 @@ sympy-plots-for-*.tex/
 
 # xindy
 *.xdy
+
+# Ignore PDFs belonging to this project
+report.pdf
+tex/introduction.pdf
+tex/company_description.pdf
+tex/questions_discussion.pdf
+tex/presentation.pdf
+tex/summary.pdf
